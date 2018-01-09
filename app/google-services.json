@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845731380461",
+    "firebase_url": "https://getout-875fd.firebaseio.com",
+    "project_id": "getout-875fd",
+    "storage_bucket": "getout-875fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845731380461:android:057cbe3f7b3a418a",
+        "android_client_info": {
+          "package_name": "com.getout.kaylaecker.getout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845731380461-a5fah1oqu546i9ps5pbctoqojt8n5gne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getout.kaylaecker.getout",
+            "certificate_hash": "b8cd18ae992dfcf43ddad1c003515468cb33d4ee"
+          }
+        },
+        {
+          "client_id": "845731380461-83rnp0l78d997ido56n26si5tvt23n3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZa8JPAFshNl96ndDIMvAN7nwDmMpDgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845731380461-83rnp0l78d997ido56n26si5tvt23n3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
