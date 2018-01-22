@@ -1,4 +1,4 @@
-package com.getout.kaylaecker.getout;
+package com.getout.kaylaecker.getout.Cards;
 
 /**
  * Created by kaylaecker on 1/17/18.
