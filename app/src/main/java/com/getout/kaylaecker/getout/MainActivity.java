@@ -138,11 +138,11 @@ public class MainActivity extends AppCompatActivity {
                     if (dataSnapshot.child("sex").getValue() != null){
                         userSex = dataSnapshot.child("sex").getValue().toString();
                         switch (userSex){
-                            case "Male":
-                                oppositeUserSex = "Female";
+                            case "Doggo":
+                                oppositeUserSex = "Human";
                                 break;
-                            case "Female":
-                                oppositeUserSex = "Male";
+                            case "Human":
+                                oppositeUserSex = "Doggo";
                                 break;
                         }
                         getOppositeSexUsers();
